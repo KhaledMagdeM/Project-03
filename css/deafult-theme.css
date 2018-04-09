@@ -1,0 +1,118 @@
+.option-box .color-option {
+	
+    border: 3px solid #e41b17;
+}
+
+
+
+.option-box .gear-check {
+	
+    background-color: #e41b17;
+}
+
+
+/* لتغيير لون الخلفيه عند الهافر الاكتيف للينكات */
+/* active link */
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    background: #e41b17
+}
+
+
+
+.navbar-inverse .navbar-brand span {
+    color: #e41b17
+}
+
+
+
+/* dropdown-menu */
+.dropdown-menu {
+
+    border-top: 1px solid #e41b17
+}
+
+
+
+/*  االلينكات اللى في القايمه */
+/* dropdown-menu link */
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+    
+    background: #e41b17;
+
+}
+
+
+
+/* الخط اللي بين اللينكات في القايمه */
+/* dropdown-menu divider */
+.dropdown-menu .divider {
+    
+    background: #e41b17
+}
+
+
+
+.carousel-indicators .active {
+
+    background: #e41b17
+}
+
+
+
+
+.about span {
+   color: #E41b17 
+}
+
+
+
+.testimonials span {
+
+    color: #e41b17
+}
+
+
+
+.testimonials .carousel-indicators li.active {
+
+    border: 2px solid #e41b17;
+
+}
+
+
+
+.price-table .price-box:hover p{
+    
+    border: 2px solid #e41b17;
+}
+
+
+
+.footer h3 {
+    color: #e41b17;
+}
+
+
+
+.footer .copyright span{
+     color: #e41b17;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
